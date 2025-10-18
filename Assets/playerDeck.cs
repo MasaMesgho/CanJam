@@ -7,7 +7,7 @@ using UnityEngine;
 
 public class playerDeck : MonoBehaviour
 {
-    string[] numbers = new string[] { "2", "3", "4", "5", "6", "7", "8", "9", "10" };
+    string[] numbers = new string[] { "A", "2", "3", "4", "5", "6", "7", "8", "9", "10" };
     string[] suits = new string[] { "Clubs", "Hearts", "Spades", "Diamonds" };
     List<string[]> deckList = new List<string[]>();
 
@@ -31,7 +31,7 @@ public class playerDeck : MonoBehaviour
         
     }
 
-    public string[] draw()
+    public string[] Draw()
     {
         int rint = Random.Range(0, deckList.Count - 1);
         string[] temp = deckList[rint];
