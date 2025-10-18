@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: e8a4676fcb504a242b49bbd21b9f3222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5573373935917184147
+    second: Jester_All_0
+  - first:
+      213: -8033020672296101140
+    second: Jester_All_1
+  - first:
+      213: 209453784680213809
+    second: Jester_All_2
+  - first:
+      213: -2640816492970783211
+    second: Jester_All_3
+  - first:
+      213: 3819666560009466524
+    second: Jester_All_4
+  - first:
+      213: -382391332298092026
+    second: Jester_All_5
+  - first:
+      213: -3236060237526051423
+    second: Jester_All_6
+  - first:
+      213: 2902535768092831893
+    second: Jester_All_7
+  - first:
+      213: -7215161749009151119
+    second: Jester_All_8
+  - first:
+      213: 9148092637207896933
+    second: Jester_All_9
+  - first:
+      213: 8387839895119727494
+    second: Jester_All_10
+  - first:
+      213: -4785016878724844067
+    second: Jester_All_11
+  - first:
+      213: 9216772969880555163
+    second: Jester_All_12
+  - first:
+      213: 6373756603483432682
+    second: Jester_All_13
+  - first:
+      213: 2525416864575348068
+    second: Jester_All_14
+  - first:
+      213: 4051161637062499671
+    second: Jester_All_15
+  - first:
+      213: -6308174793612208851
+    second: Jester_All_16
+  - first:
+      213: 8966672078782329421
+    second: Jester_All_17
+  - first:
+      213: -2998981382097028092
+    second: Jester_All_18
+  - first:
+      213: 8080442259352946545
+    second: Jester_All_19
+  - first:
+      213: 6727560108725190670
+    second: Jester_All_20
+  - first:
+      213: -3793980611169967678
+    second: Jester_All_21
+  - first:
+      213: -8612963362912520981
+    second: Jester_All_22
+  - first:
+      213: -8750617629687671999
+    second: Jester_All_23
+  - first:
+      213: 4642490698606636212
+    second: Jester_All_24
+  - first:
+      213: -3991093676248317333
+    second: Jester_All_25
+  - first:
+      213: -4013307470033062013
+    second: Jester_All_26
+  - first:
+      213: -5736488130902110020
+    second: Jester_All_27
+  - first:
+      213: -5699943394985790260
+    second: Jester_All_28
+  - first:
+      213: -6370387824138216519
+    second: Jester_All_29
+  - first:
+      213: 171363153782817127
+    second: Jester_All_30
+  - first:
+      213: 2279887525517659950
+    second: Jester_All_31
+  - first:
+      213: -6162007834818369303
+    second: Jester_All_32
+  - first:
+      213: 783074945726429199
+    second: Jester_All_33
+  - first:
+      213: 1245215485014962043
+    second: Jester_All_34
+  - first:
+      213: -4135913846925740005
+    second: Jester_All_35
+  - first:
+      213: -1518640470881909748
+    second: Jester_All_36
+  - first:
+      213: 3276376489512289181
+    second: Jester_All_37
+  - first:
+      213: -2742126537287377674
+    second: Jester_All_38
+  - first:
+      213: -788728144527360784
+    second: Jester_All_39
+  - first:
+      213: 5605066189844125591
+    second: Jester_All_40
+  - first:
+      213: -3819440312272992216
+    second: Jester_All_41
+  - first:
+      213: -2159652519202708296
+    second: Jester_All_42
+  - first:
+      213: -6579680073249729107
+    second: Jester_All_43
+  - first:
+      213: 3961941552197390024
+    second: Jester_All_44
+  - first:
+      213: -1985255486785482695
+    second: Jester_All_45
+  - first:
+      213: -5805628163696093254
+    second: Jester_All_46
+  - first:
+      213: -119802368506003448
+    second: Jester_All_47
+  - first:
+      213: -3727487779687632616
+    second: Jester_All_48
+  - first:
+      213: 2266658950382574670
+    second: Jester_All_49
+  - first:
+      213: 4253017249108870241
+    second: Jester_All_50
+  - first:
+      213: 1892374055175742442
+    second: Jester_All_51
+  - first:
+      213: 4391556214005458951
+    second: Jester_All_52
+  - first:
+      213: -7752936868619253669
+    second: Jester_All_53
+  - first:
+      213: 1966279043029240082
+    second: Jester_All_54
+  - first:
+      213: 2686799427823066017
+    second: Jester_All_55
+  - first:
+      213: -7435026563415612543
+    second: Jester_All_56
+  - first:
+      213: 4180790857117167167
+    second: Jester_All_57
+  - first:
+      213: -7010792128984765784
+    second: Jester_All_58
+  - first:
+      213: -6841582507308938301
+    second: Jester_All_59
+  - first:
+      213: 2955519842529242955
+    second: Jester_All_60
+  - first:
+      213: -6071967976439529110
+    second: Jester_All_61
+  - first:
+      213: 1683965459782496904
+    second: Jester_All_62
+  - first:
+      213: -8205713314242875215
+    second: Jester_All_63
+  - first:
+      213: -7094872681293989849
+    second: Jester_All_64
+  - first:
+      213: -6887899361044937370
+    second: Jester_All_65
+  - first:
+      213: -7828789796434344620
+    second: Jester_All_66
+  - first:
+      213: 5637198100832795872
+    second: Jester_All_67
+  - first:
+      213: -2275913916574814834
+    second: Jester_All_68
+  - first:
+      213: 5073308269684221813
+    second: Jester_All_69
+  - first:
+      213: 7160960132888275958
+    second: Jester_All_70
+  - first:
+      213: 5031137849171462209
+    second: Jester_All_71
+  - first:
+      213: -7151409170483370555
+    second: Jester_All_72
+  - first:
+      213: 5495964302711895954
+    second: Jester_All_73
+  - first:
+      213: 4239211773423325155
+    second: Jester_All_74
+  - first:
+      213: -1906362479968634196
+    second: Jester_All_75
+  - first:
+      213: 4953871852124015561
+    second: Jester_All_76
+  - first:
+      213: 7170898345475194044
+    second: Jester_All_77
+  - first:
+      213: 3989374624069312741
+    second: Jester_All_78
+  - first:
+      213: 2190295901206735563
+    second: Jester_All_79
+  - first:
+      213: -4724448199209925293
+    second: Jester_All_80
+  - first:
+      213: 1299265199250197719
+    second: Jester_All_81
+  - first:
+      213: -5295583648646680545
+    second: Jester_All_82
+  - first:
+      213: -132244119460608768
+    second: Jester_All_83
+  - first:
+      213: 125021591172240743
+    second: Jester_All_84
+  - first:
+      213: -8963511093353504431
+    second: Jester_All_85
+  - first:
+      213: 2245903049713873602
+    second: Jester_All_86
+  - first:
+      213: -1095407969134084083
+    second: Jester_All_87
+  - first:
+      213: -7592160690754986818
+    second: Jester_All_88
+  - first:
+      213: -4106475111724909555
+    second: Jester_All_89
+  - first:
+      213: 2232747735925008881
+    second: Jester_All_90
+  - first:
+      213: 2566700525679415521
+    second: Jester_All_91
+  - first:
+      213: -3149708189524369079
+    second: Jester_All_92
+  - first:
+      213: 5577815010149664314
+    second: Jester_All_93
+  - first:
+      213: -6486890271927770798
+    second: Jester_All_94
+  - first:
+      213: -309684762139761340
+    second: Jester_All_95
+  - first:
+      213: 4635561809605880995
+    second: Jester_All_96
+  - first:
+      213: -2114776747792727840
+    second: Jester_All_97
+  - first:
+      213: -3804834322040446327
+    second: Jester_All_98
+  - first:
+      213: -3182674150872433250
+    second: Jester_All_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jester_All_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 579
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b4c3d2fe567a2b0800000000000000
+      internalID: -5573373935917184147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 579
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceadb62624af48090800000000000000
+      internalID: -8033020672296101140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 579
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13da9b08b1128e200800000000000000
+      internalID: 209453784680213809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 577
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecb7b246fe95bd0800000000000000
+      internalID: -2640816492970783211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 551
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c927dc5bf7e220530800000000000000
+      internalID: 3819666560009466524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 555
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6021f29fb1971baf0800000000000000
+      internalID: -382391332298092026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 550
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a55e7efb543713d0800000000000000
+      internalID: -3236060237526051423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 550
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f90d17e0e74820800000000000000
+      internalID: 2902535768092831893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 531
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc259ed989edb90800000000000000
+      internalID: -7215161749009151119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 531
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563a42de8cd84fe70800000000000000
+      internalID: 9148092637207896933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 531
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b0675a1f7976470800000000000000
+      internalID: 8387839895119727494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 531
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd57b5b3084389db0800000000000000
+      internalID: -4785016878724844067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 507
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e072dfe2e88ef70800000000000000
+      internalID: 9216772969880555163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 507
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae62e6b7cd1247850800000000000000
+      internalID: 6373756603483432682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 507
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d5bc212451c0320800000000000000
+      internalID: 2525416864575348068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 507
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ddcc08b0e983830800000000000000
+      internalID: 4051161637062499671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 484
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25dba5827cd478a0800000000000000
+      internalID: -6308174793612208851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 483
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42fb398fb4007c70800000000000000
+      internalID: 8966672078782329421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 480
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cb810825a7166d0800000000000000
+      internalID: -2998981382097028092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 483
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17789c04c6f732070800000000000000
+      internalID: 8080442259352946545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 456
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0047a556481d5d50800000000000000
+      internalID: 6727560108725190670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 459
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ae7a4cb2195bc0800000000000000
+      internalID: -3793980611169967678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 460
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43522747b987880800000000000000
+      internalID: -8612963362912520981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 459
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431239e0af8f8680800000000000000
+      internalID: -8750617629687671999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 435
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bce08381b07d6040800000000000000
+      internalID: 4642490698606636212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 435
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6249e97279cc98c0800000000000000
+      internalID: -3991093676248317333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 435
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387f1429e1edd48c0800000000000000
+      internalID: -4013307470033062013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 435
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0d55b2076e360b0800000000000000
+      internalID: -5736488130902110020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 411
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4b90e8eabb5e0b0800000000000000
+      internalID: -5699943394985790260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 411
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb94c49606d797a0800000000000000
+      internalID: -6370387824138216519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 411
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761c0d461edc06200800000000000000
+      internalID: 171363153782817127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 411
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f035600a9c3af10800000000000000
+      internalID: 2279887525517659950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 387
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e82a7e95862c7aa0800000000000000
+      internalID: -6162007834818369303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 387
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f083884a38a0eda00800000000000000
+      internalID: 783074945726429199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 387
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fe12dd2e4e74110800000000000000
+      internalID: 1245215485014962043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 390
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b183f5ce4484a96c0800000000000000
+      internalID: -4135913846925740005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 363
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c044d8fa984bceae0800000000000000
+      internalID: -1518640470881909748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 363
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9342d7ee07087d20800000000000000
+      internalID: 3276376489512289181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 363
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc50d7517202f9d0800000000000000
+      internalID: -2742126537287377674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 366
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcf7117eefdd05f0800000000000000
+      internalID: -788728144527360784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 339
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7971634b00239cd40800000000000000
+      internalID: 5605066189844125591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 339
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8284922b54f9efac0800000000000000
+      internalID: -3819440312272992216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 339
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b425a2e97f5702e0800000000000000
+      internalID: -2159652519202708296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 342
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5db3285d740b4a0800000000000000
+      internalID: -6579680073249729107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 315
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cec597b9d4abf630800000000000000
+      internalID: 3961941552197390024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 315
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93091c137a4f274e0800000000000000
+      internalID: -1985255486785482695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 315
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab714e4d1f34e6fa0800000000000000
+      internalID: -5805628163696093254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 318
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80003fd6160665ef0800000000000000
+      internalID: -119802368506003448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 291
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811fb1b0d9d454cc0800000000000000
+      internalID: -3727487779687632616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 291
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c538c5e4ac47f10800000000000000
+      internalID: 2266658950382574670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 291
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1644eb497a0c50b30800000000000000
+      internalID: 4253017249108870241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 291
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36aec4d20134a10800000000000000
+      internalID: 1892374055175742442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 267
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70864f2fb11f1fc30800000000000000
+      internalID: 4391556214005458951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_53
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 267
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b588bebaef8086490800000000000000
+      internalID: -7752936868619253669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 267
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198d013f50a94b10800000000000000
+      internalID: 1966279043029240082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 267
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abdd1628dd694520800000000000000
+      internalID: 2686799427823066017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 243
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183e408abba71d890800000000000000
+      internalID: -7435026563415612543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 243
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6bae3227250a30800000000000000
+      internalID: 4180790857117167167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 243
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa22c514b9a4be90800000000000000
+      internalID: -7010792128984765784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 243
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb035635f0dd01a0800000000000000
+      internalID: -6841582507308938301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 219
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fe29443ad140920800000000000000
+      internalID: 2955519842529242955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 219
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6146cccb490cbba0800000000000000
+      internalID: -6071967976439529110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_62
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 219
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882fc54e9a5ae5710800000000000000
+      internalID: 1683965459782496904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 219
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b03cd767337f1e80800000000000000
+      internalID: -8205713314242875215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72839d8f2e2f98d90800000000000000
+      internalID: -7094872681293989849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 195
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665c64856044960a0800000000000000
+      internalID: -6887899361044937370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_66
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 195
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455045aa82d8a5390800000000000000
+      internalID: -7828789796434344620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 195
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec35a83ec95b3e40800000000000000
+      internalID: 5637198100832795872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 171
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da037e9545a60e0800000000000000
+      internalID: -2275913916574814834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_69
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5776492edf2086640800000000000000
+      internalID: 5073308269684221813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb2a8bec47d06360800000000000000
+      internalID: 7160960132888275958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14843ebb73132d540800000000000000
+      internalID: 5031137849171462209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 147
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c52eddcf3711cc90800000000000000
+      internalID: -7151409170483370555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 147
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297be591a66954c40800000000000000
+      internalID: 5495964302711895954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 148
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef0d8ac5a4b4da30800000000000000
+      internalID: 4239211773423325155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa3650cc6d3b85e0800000000000000
+      internalID: -1906362479968634196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_76
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 123
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb88a8e330bfb440800000000000000
+      internalID: 4953871852124015561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_77
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 123
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc3c7a5d06248360800000000000000
+      internalID: 7170898345475194044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_78
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 123
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0eb9f751b1d5730800000000000000
+      internalID: 3989374624069312741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 123
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaeb68748e756e10800000000000000
+      internalID: 2190295901206735563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 99
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355cb5ed4636f6eb0800000000000000
+      internalID: -4724448199209925293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_81
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 99
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc55e90dae70210800000000000000
+      internalID: 1299265199250197719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_82
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 99
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f103c009abe4286b0800000000000000
+      internalID: -5295583648646680545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_83
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 99
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0058aeb8cac2a2ef0800000000000000
+      internalID: -132244119460608768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765531b897a2cb100800000000000000
+      internalID: 125021591172240743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 75
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151246cb6263b9380800000000000000
+      internalID: -8963511093353504431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 75
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c27926acec0b2f10800000000000000
+      internalID: 2245903049713873602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 75
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0081ab71445cc0f0800000000000000
+      internalID: -1095407969134084083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc5dd5a31a33a690800000000000000
+      internalID: -7592160690754986818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_89
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 51
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c77a694aed207c0800000000000000
+      internalID: -4106475111724909555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_90
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92ed87c305cfe10800000000000000
+      internalID: 2232747735925008881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_91
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 51
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e01ee57780ce9320800000000000000
+      internalID: 2566700525679415521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 27
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941e249e61df944d0800000000000000
+      internalID: -3149708189524369079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_93
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 27
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3600def231686d40800000000000000
+      internalID: 5577815010149664314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 27
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251eeccaaafe9f5a0800000000000000
+      internalID: -6486890271927770798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_95
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 27
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ee408957c3bbf0800000000000000
+      internalID: -309684762139761340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acece3d7e2d45040800000000000000
+      internalID: 4635561809605880995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_97
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e00f80a0cdc6a2e0800000000000000
+      internalID: -2114776747792727840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a09dc753823bc0800000000000000
+      internalID: -3804834322040446327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_All_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d3e69e8bed4d3d0800000000000000
+      internalID: -3182674150872433250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jester_All_0: -5573373935917184147
+      Jester_All_1: -8033020672296101140
+      Jester_All_10: 8387839895119727494
+      Jester_All_11: -4785016878724844067
+      Jester_All_12: 9216772969880555163
+      Jester_All_13: 6373756603483432682
+      Jester_All_14: 2525416864575348068
+      Jester_All_15: 4051161637062499671
+      Jester_All_16: -6308174793612208851
+      Jester_All_17: 8966672078782329421
+      Jester_All_18: -2998981382097028092
+      Jester_All_19: 8080442259352946545
+      Jester_All_2: 209453784680213809
+      Jester_All_20: 6727560108725190670
+      Jester_All_21: -3793980611169967678
+      Jester_All_22: -8612963362912520981
+      Jester_All_23: -8750617629687671999
+      Jester_All_24: 4642490698606636212
+      Jester_All_25: -3991093676248317333
+      Jester_All_26: -4013307470033062013
+      Jester_All_27: -5736488130902110020
+      Jester_All_28: -5699943394985790260
+      Jester_All_29: -6370387824138216519
+      Jester_All_3: -2640816492970783211
+      Jester_All_30: 171363153782817127
+      Jester_All_31: 2279887525517659950
+      Jester_All_32: -6162007834818369303
+      Jester_All_33: 783074945726429199
+      Jester_All_34: 1245215485014962043
+      Jester_All_35: -4135913846925740005
+      Jester_All_36: -1518640470881909748
+      Jester_All_37: 3276376489512289181
+      Jester_All_38: -2742126537287377674
+      Jester_All_39: -788728144527360784
+      Jester_All_4: 3819666560009466524
+      Jester_All_40: 5605066189844125591
+      Jester_All_41: -3819440312272992216
+      Jester_All_42: -2159652519202708296
+      Jester_All_43: -6579680073249729107
+      Jester_All_44: 3961941552197390024
+      Jester_All_45: -1985255486785482695
+      Jester_All_46: -5805628163696093254
+      Jester_All_47: -119802368506003448
+      Jester_All_48: -3727487779687632616
+      Jester_All_49: 2266658950382574670
+      Jester_All_5: -382391332298092026
+      Jester_All_50: 4253017249108870241
+      Jester_All_51: 1892374055175742442
+      Jester_All_52: 4391556214005458951
+      Jester_All_53: -7752936868619253669
+      Jester_All_54: 1966279043029240082
+      Jester_All_55: 2686799427823066017
+      Jester_All_56: -7435026563415612543
+      Jester_All_57: 4180790857117167167
+      Jester_All_58: -7010792128984765784
+      Jester_All_59: -6841582507308938301
+      Jester_All_6: -3236060237526051423
+      Jester_All_60: 2955519842529242955
+      Jester_All_61: -6071967976439529110
+      Jester_All_62: 1683965459782496904
+      Jester_All_63: -8205713314242875215
+      Jester_All_64: -7094872681293989849
+      Jester_All_65: -6887899361044937370
+      Jester_All_66: -7828789796434344620
+      Jester_All_67: 5637198100832795872
+      Jester_All_68: -2275913916574814834
+      Jester_All_69: 5073308269684221813
+      Jester_All_7: 2902535768092831893
+      Jester_All_70: 7160960132888275958
+      Jester_All_71: 5031137849171462209
+      Jester_All_72: -7151409170483370555
+      Jester_All_73: 5495964302711895954
+      Jester_All_74: 4239211773423325155
+      Jester_All_75: -1906362479968634196
+      Jester_All_76: 4953871852124015561
+      Jester_All_77: 7170898345475194044
+      Jester_All_78: 3989374624069312741
+      Jester_All_79: 2190295901206735563
+      Jester_All_8: -7215161749009151119
+      Jester_All_80: -4724448199209925293
+      Jester_All_81: 1299265199250197719
+      Jester_All_82: -5295583648646680545
+      Jester_All_83: -132244119460608768
+      Jester_All_84: 125021591172240743
+      Jester_All_85: -8963511093353504431
+      Jester_All_86: 2245903049713873602
+      Jester_All_87: -1095407969134084083
+      Jester_All_88: -7592160690754986818
+      Jester_All_89: -4106475111724909555
+      Jester_All_9: 9148092637207896933
+      Jester_All_90: 2232747735925008881
+      Jester_All_91: 2566700525679415521
+      Jester_All_92: -3149708189524369079
+      Jester_All_93: 5577815010149664314
+      Jester_All_94: -6486890271927770798
+      Jester_All_95: -309684762139761340
+      Jester_All_96: 4635561809605880995
+      Jester_All_97: -2114776747792727840
+      Jester_All_98: -3804834322040446327
+      Jester_All_99: -3182674150872433250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

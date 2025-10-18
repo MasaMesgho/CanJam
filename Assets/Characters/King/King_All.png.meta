@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: 9e5700ccaee536a4b94b60327e9c3813
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1984882718634678159
+    second: King_All_0
+  - first:
+      213: 7913089651576051718
+    second: King_All_1
+  - first:
+      213: 296621862392463338
+    second: King_All_2
+  - first:
+      213: 6640464584906875768
+    second: King_All_3
+  - first:
+      213: -2903680349190097862
+    second: King_All_4
+  - first:
+      213: -7961538718342365736
+    second: King_All_5
+  - first:
+      213: 2468881622601646200
+    second: King_All_6
+  - first:
+      213: 5613845069078341471
+    second: King_All_7
+  - first:
+      213: 7620334817192931328
+    second: King_All_8
+  - first:
+      213: -3618462341334949569
+    second: King_All_9
+  - first:
+      213: 7098532123531995853
+    second: King_All_10
+  - first:
+      213: 5434304428776913772
+    second: King_All_11
+  - first:
+      213: 5297590156515720240
+    second: King_All_12
+  - first:
+      213: 9098670730872310643
+    second: King_All_13
+  - first:
+      213: -2847679372944615709
+    second: King_All_14
+  - first:
+      213: 9212703845086109976
+    second: King_All_15
+  - first:
+      213: -2970496088706811327
+    second: King_All_16
+  - first:
+      213: -6935041966461428899
+    second: King_All_17
+  - first:
+      213: -6522531377089460772
+    second: King_All_18
+  - first:
+      213: 6154243596609713273
+    second: King_All_19
+  - first:
+      213: 8339184134450789575
+    second: King_All_20
+  - first:
+      213: -8788388761124636826
+    second: King_All_21
+  - first:
+      213: -7120032607297671461
+    second: King_All_22
+  - first:
+      213: 3336684221691969629
+    second: King_All_23
+  - first:
+      213: -1451411055475897540
+    second: King_All_24
+  - first:
+      213: 7805980962798406362
+    second: King_All_25
+  - first:
+      213: -4881831966697078676
+    second: King_All_26
+  - first:
+      213: 1259583140433788407
+    second: King_All_27
+  - first:
+      213: 8921994416435854988
+    second: King_All_28
+  - first:
+      213: -4511214076678664263
+    second: King_All_29
+  - first:
+      213: -2963227199423634289
+    second: King_All_30
+  - first:
+      213: -3937987998677705844
+    second: King_All_31
+  - first:
+      213: 8226530581837738589
+    second: King_All_32
+  - first:
+      213: 3710581405140570177
+    second: King_All_33
+  - first:
+      213: 1057238835312178528
+    second: King_All_34
+  - first:
+      213: -7177847778475630652
+    second: King_All_35
+  - first:
+      213: 8007886385400499830
+    second: King_All_36
+  - first:
+      213: -8799860124942476658
+    second: King_All_37
+  - first:
+      213: -748572683793149814
+    second: King_All_38
+  - first:
+      213: -1284707445379141859
+    second: King_All_39
+  - first:
+      213: 7819308223306899454
+    second: King_All_40
+  - first:
+      213: 3690396286790776085
+    second: King_All_41
+  - first:
+      213: -2318174296058471462
+    second: King_All_42
+  - first:
+      213: -3706562730171144037
+    second: King_All_43
+  - first:
+      213: 7022777421243763831
+    second: King_All_44
+  - first:
+      213: -5287044461074723372
+    second: King_All_45
+  - first:
+      213: 2163677255661547479
+    second: King_All_46
+  - first:
+      213: -7007364713925750104
+    second: King_All_47
+  - first:
+      213: 2507871121931171024
+    second: King_All_48
+  - first:
+      213: 6842998041876452828
+    second: King_All_49
+  - first:
+      213: 2398317228691675968
+    second: King_All_50
+  - first:
+      213: 8347373064515316018
+    second: King_All_51
+  - first:
+      213: 5107074792367033690
+    second: King_All_52
+  - first:
+      213: 6770940583255368847
+    second: King_All_53
+  - first:
+      213: 6169619335333695043
+    second: King_All_54
+  - first:
+      213: -2481776073128719122
+    second: King_All_55
+  - first:
+      213: 5330811276416447565
+    second: King_All_56
+  - first:
+      213: -2523552762463584196
+    second: King_All_57
+  - first:
+      213: 1761762570281454453
+    second: King_All_58
+  - first:
+      213: -4748229340888070265
+    second: King_All_59
+  - first:
+      213: 5223944562363259055
+    second: King_All_60
+  - first:
+      213: 9129933451171972136
+    second: King_All_61
+  - first:
+      213: 6177420393445848987
+    second: King_All_62
+  - first:
+      213: 5039720554722535415
+    second: King_All_63
+  - first:
+      213: -5938239312742680742
+    second: King_All_64
+  - first:
+      213: -4649411946895503939
+    second: King_All_65
+  - first:
+      213: 2399366704213679925
+    second: King_All_66
+  - first:
+      213: 800351071722021544
+    second: King_All_67
+  - first:
+      213: -2237770460083268331
+    second: King_All_68
+  - first:
+      213: -8963751903731478563
+    second: King_All_69
+  - first:
+      213: 1259213363517231316
+    second: King_All_70
+  - first:
+      213: 6880512124025302267
+    second: King_All_71
+  - first:
+      213: 5437894390754103671
+    second: King_All_72
+  - first:
+      213: -4852344181591937327
+    second: King_All_73
+  - first:
+      213: 402689216802343467
+    second: King_All_74
+  - first:
+      213: -8564742895432287150
+    second: King_All_75
+  - first:
+      213: 7250059310694716491
+    second: King_All_76
+  - first:
+      213: 926816059574016147
+    second: King_All_77
+  - first:
+      213: -76495762597919280
+    second: King_All_78
+  - first:
+      213: 5071210782519501105
+    second: King_All_79
+  - first:
+      213: -220550530881429071
+    second: King_All_80
+  - first:
+      213: -2162755924559004452
+    second: King_All_81
+  - first:
+      213: 7152543767542013092
+    second: King_All_82
+  - first:
+      213: 2567979738936201561
+    second: King_All_83
+  - first:
+      213: 5683880156492152738
+    second: King_All_84
+  - first:
+      213: -8137310033461827617
+    second: King_All_85
+  - first:
+      213: 2967476571372751111
+    second: King_All_86
+  - first:
+      213: -763139405634916574
+    second: King_All_87
+  - first:
+      213: -2162147615404779011
+    second: King_All_88
+  - first:
+      213: 2225316498766191543
+    second: King_All_89
+  - first:
+      213: -6493509030964822908
+    second: King_All_90
+  - first:
+      213: -8389495769987750261
+    second: King_All_91
+  - first:
+      213: -4376059943950502774
+    second: King_All_92
+  - first:
+      213: -1379633157312288038
+    second: King_All_93
+  - first:
+      213: 2971416782319578613
+    second: King_All_94
+  - first:
+      213: 6482626358295953010
+    second: King_All_95
+  - first:
+      213: -8922721227603963701
+    second: King_All_96
+  - first:
+      213: 7201062937808399009
+    second: King_All_97
+  - first:
+      213: -4829974171660893758
+    second: King_All_98
+  - first:
+      213: -555392412895158041
+    second: King_All_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King_All_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 579
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178e7fa0fa74474e0800000000000000
+      internalID: -1984882718634678159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 579
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608920edc11f0dd60800000000000000
+      internalID: 7913089651576051718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 579
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef74842300dd1400800000000000000
+      internalID: 296621862392463338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 579
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873afe67b5ba72c50800000000000000
+      internalID: 6640464584906875768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 555
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34fd355b1e04b7d0800000000000000
+      internalID: -2903680349190097862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 555
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd3fabb7bee28190800000000000000
+      internalID: -7961538718342365736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 555
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87049ab41ca334220800000000000000
+      internalID: 2468881622601646200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 555
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572e7ec85268ed40800000000000000
+      internalID: 5613845069078341471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 531
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0007358542ed0c960800000000000000
+      internalID: 7620334817192931328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 531
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f312a970ca3a8cdc0800000000000000
+      internalID: -3618462341334949569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 531
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcae2d15b5d038260800000000000000
+      internalID: 7098532123531995853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 531
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7496f5178a6b40800000000000000
+      internalID: 5434304428776913772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 507
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb9b4fd22d48940800000000000000
+      internalID: 5297590156515720240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 507
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b43e9a2d8f44e70800000000000000
+      internalID: 9098670730872310643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 507
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6dd6da2b20b78d0800000000000000
+      internalID: -2847679372944615709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 507
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811ab3b06591adf70800000000000000
+      internalID: 9212703845086109976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 484
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a71f1bb8da6c6d0800000000000000
+      internalID: -2970496088706811327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 483
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bd3ae2318c1cf90800000000000000
+      internalID: -6935041966461428899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 484
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd54e3835405b75a0800000000000000
+      internalID: -6522531377089460772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 483
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f42dc1f3486550800000000000000
+      internalID: 6154243596609713273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 460
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc338299cbbab370800000000000000
+      internalID: 8339184134450789575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 459
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66771211cfe590680800000000000000
+      internalID: -8788388761124636826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 460
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdee2d43110903d90800000000000000
+      internalID: -7120032607297671461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 459
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50c9910f984e4e20800000000000000
+      internalID: 3336684221691969629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 435
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bc84fb55d8bdbe0800000000000000
+      internalID: -1451411055475897540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 435
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada8f0be35a645c60800000000000000
+      internalID: 7805980962798406362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 435
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60cfdbf0bf304cb0800000000000000
+      internalID: -4881831966697078676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 435
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd70a25130fa7110800000000000000
+      internalID: 1259583140433788407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 411
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e7da7a6aa41db70800000000000000
+      internalID: 8921994416435854988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 411
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf83ddd2b2f461c0800000000000000
+      internalID: -4511214076678664263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 411
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84249ddf8080e6d0800000000000000
+      internalID: -2963227199423634289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 411
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b501197c47959c0800000000000000
+      internalID: -3937987998677705844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 387
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5273586af18a2270800000000000000
+      internalID: 8226530581837738589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 387
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140d293e022ae7330800000000000000
+      internalID: 3710581405140570177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 387
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065b7858e111cae00800000000000000
+      internalID: 1057238835312178528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 390
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1220b979236c90800000000000000
+      internalID: -7177847778475630652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 363
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ecb7b6d3ab12f60800000000000000
+      internalID: 8007886385400499830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 363
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8addab07dd90e580800000000000000
+      internalID: -8799860124942476658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 363
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80d2f53c198c95f0800000000000000
+      internalID: -748572683793149814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 366
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f60e5926dcb2ee0800000000000000
+      internalID: -1284707445379141859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 339
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff9f7f8663c38c60800000000000000
+      internalID: 7819308223306899454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 339
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b59acedbe63330800000000000000
+      internalID: 3690396286790776085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 339
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb5efb82c034dfd0800000000000000
+      internalID: -2318174296058471462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 342
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98627ac5d4af8cc0800000000000000
+      internalID: -3706562730171144037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 315
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c4ed93bdae57160800000000000000
+      internalID: 7022777421243763831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc1f91315a0a6b0800000000000000
+      internalID: -5287044461074723372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 315
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df6c48100de60e10800000000000000
+      internalID: 2163677255661547479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 318
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a259d65be6d0ce90800000000000000
+      internalID: -7007364713925750104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 291
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4fa258f7fbdc220800000000000000
+      internalID: 2507871121931171024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 291
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd55dbc967637fe50800000000000000
+      internalID: 6842998041876452828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bddda00d8884120800000000000000
+      internalID: 2398317228691675968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 291
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239691e6393d7d370800000000000000
+      internalID: 8347373064515316018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 267
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d83681779ffd640800000000000000
+      internalID: 5107074792367033690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_53
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 267
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f846634269637fd50800000000000000
+      internalID: 6770940583255368847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e42f1f814ee9550800000000000000
+      internalID: 6169619335333695043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 267
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec491d7fc5fe8dd0800000000000000
+      internalID: -2481776073128719122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44f27fac98daf940800000000000000
+      internalID: 5330811276416447565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 243
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c300765022a8afcd0800000000000000
+      internalID: -2523552762463584196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 243
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b843439b9037810800000000000000
+      internalID: 1761762570281454453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 243
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78787485296ea1eb0800000000000000
+      internalID: -4748229340888070265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 219
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8defdd6ed2f7840800000000000000
+      internalID: 5223944562363259055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 219
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824cf04f91a04be70800000000000000
+      internalID: 9129933451171972136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 219
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97f7935e1b9ab550800000000000000
+      internalID: 6177420393445848987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 219
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a877942fa0f540800000000000000
+      internalID: 5039720554722535415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5776b4aec2279da0800000000000000
+      internalID: -5938239312742680742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 195
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd06dac778f97fb0800000000000000
+      internalID: -4649411946895503939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_66
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 195
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5e8a1e434c4120800000000000000
+      internalID: 2399366704213679925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 195
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2289d2f0b6b1b00800000000000000
+      internalID: 800351071722021544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 171
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515dfdd6f97d1f0e0800000000000000
+      internalID: -2237770460083268331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_69
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf8a53b22b5a9380800000000000000
+      internalID: -8963751903731478563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d09edce1ef997110800000000000000
+      internalID: 1259213363517231316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfceb41825d7c7f50800000000000000
+      internalID: 6880512124025302267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 147
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771dcfe1328477b40800000000000000
+      internalID: 5437894390754103671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 147
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de6748fca209acb0800000000000000
+      internalID: -4852344181591937327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a426a85b3a69500800000000000000
+      internalID: 402689216802343467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c353de6bbe32980800000000000000
+      internalID: -8564742895432287150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 123
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44d876d7826d9460800000000000000
+      internalID: 7250059310694716491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 123
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3985903bb46bcdc00800000000000000
+      internalID: 926816059574016147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 123
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5478b528b30fef0800000000000000
+      internalID: -76495762597919280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 123
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131a439965f806640800000000000000
+      internalID: 5071210782519501105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1e9cfe57270fcf0800000000000000
+      internalID: -220550530881429071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_81
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcf9c402f85cf1e0800000000000000
+      internalID: -2162755924559004452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_82
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 99
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac96c829a0f24360800000000000000
+      internalID: 7152543767542013092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_83
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 99
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95151b187fb43a320800000000000000
+      internalID: 2567979738936201561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af3b9943e231ee40800000000000000
+      internalID: 5683880156492152738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 75
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7294c43a7721f80800000000000000
+      internalID: -8137310033461827617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_86
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 75
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70987f328389e2920800000000000000
+      internalID: 2967476571372751111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f270df0c8c865f0800000000000000
+      internalID: -763139405634916574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 51
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df917d703328ef1e0800000000000000
+      internalID: -2162147615404779011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_89
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb56cdb099e1ee10800000000000000
+      internalID: 2225316498766191543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_90
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 51
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cfc8fb0fb62e5a0800000000000000
+      internalID: -6493509030964822908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 51
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86ec31fb06829b80800000000000000
+      internalID: -8389495769987750261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_92
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84b3059aac1543c0800000000000000
+      internalID: -4376059943950502774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_93
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaec0af3fe8adce0800000000000000
+      internalID: -1379633157312288038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 27
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdeacdf1d79c3920800000000000000
+      internalID: 2971416782319578613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 27
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e70d1935ae6f950800000000000000
+      internalID: 6482626358295953010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc014de61502c2480800000000000000
+      internalID: -8922721227603963701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_97
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaec4dc6905fe360800000000000000
+      internalID: 7201062937808399009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c147d7c41c78fcb0800000000000000
+      internalID: -4829974171660893758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_All_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ef660b89da48f0800000000000000
+      internalID: -555392412895158041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      King_All_0: -1984882718634678159
+      King_All_1: 7913089651576051718
+      King_All_10: 7098532123531995853
+      King_All_11: 5434304428776913772
+      King_All_12: 5297590156515720240
+      King_All_13: 9098670730872310643
+      King_All_14: -2847679372944615709
+      King_All_15: 9212703845086109976
+      King_All_16: -2970496088706811327
+      King_All_17: -6935041966461428899
+      King_All_18: -6522531377089460772
+      King_All_19: 6154243596609713273
+      King_All_2: 296621862392463338
+      King_All_20: 8339184134450789575
+      King_All_21: -8788388761124636826
+      King_All_22: -7120032607297671461
+      King_All_23: 3336684221691969629
+      King_All_24: -1451411055475897540
+      King_All_25: 7805980962798406362
+      King_All_26: -4881831966697078676
+      King_All_27: 1259583140433788407
+      King_All_28: 8921994416435854988
+      King_All_29: -4511214076678664263
+      King_All_3: 6640464584906875768
+      King_All_30: -2963227199423634289
+      King_All_31: -3937987998677705844
+      King_All_32: 8226530581837738589
+      King_All_33: 3710581405140570177
+      King_All_34: 1057238835312178528
+      King_All_35: -7177847778475630652
+      King_All_36: 8007886385400499830
+      King_All_37: -8799860124942476658
+      King_All_38: -748572683793149814
+      King_All_39: -1284707445379141859
+      King_All_4: -2903680349190097862
+      King_All_40: 7819308223306899454
+      King_All_41: 3690396286790776085
+      King_All_42: -2318174296058471462
+      King_All_43: -3706562730171144037
+      King_All_44: 7022777421243763831
+      King_All_45: -5287044461074723372
+      King_All_46: 2163677255661547479
+      King_All_47: -7007364713925750104
+      King_All_48: 2507871121931171024
+      King_All_49: 6842998041876452828
+      King_All_5: -7961538718342365736
+      King_All_50: 2398317228691675968
+      King_All_51: 8347373064515316018
+      King_All_52: 5107074792367033690
+      King_All_53: 6770940583255368847
+      King_All_54: 6169619335333695043
+      King_All_55: -2481776073128719122
+      King_All_56: 5330811276416447565
+      King_All_57: -2523552762463584196
+      King_All_58: 1761762570281454453
+      King_All_59: -4748229340888070265
+      King_All_6: 2468881622601646200
+      King_All_60: 5223944562363259055
+      King_All_61: 9129933451171972136
+      King_All_62: 6177420393445848987
+      King_All_63: 5039720554722535415
+      King_All_64: -5938239312742680742
+      King_All_65: -4649411946895503939
+      King_All_66: 2399366704213679925
+      King_All_67: 800351071722021544
+      King_All_68: -2237770460083268331
+      King_All_69: -8963751903731478563
+      King_All_7: 5613845069078341471
+      King_All_70: 1259213363517231316
+      King_All_71: 6880512124025302267
+      King_All_72: 5437894390754103671
+      King_All_73: -4852344181591937327
+      King_All_74: 402689216802343467
+      King_All_75: -8564742895432287150
+      King_All_76: 7250059310694716491
+      King_All_77: 926816059574016147
+      King_All_78: -76495762597919280
+      King_All_79: 5071210782519501105
+      King_All_8: 7620334817192931328
+      King_All_80: -220550530881429071
+      King_All_81: -2162755924559004452
+      King_All_82: 7152543767542013092
+      King_All_83: 2567979738936201561
+      King_All_84: 5683880156492152738
+      King_All_85: -8137310033461827617
+      King_All_86: 2967476571372751111
+      King_All_87: -763139405634916574
+      King_All_88: -2162147615404779011
+      King_All_89: 2225316498766191543
+      King_All_9: -3618462341334949569
+      King_All_90: -6493509030964822908
+      King_All_91: -8389495769987750261
+      King_All_92: -4376059943950502774
+      King_All_93: -1379633157312288038
+      King_All_94: 2971416782319578613
+      King_All_95: 6482626358295953010
+      King_All_96: -8922721227603963701
+      King_All_97: 7201062937808399009
+      King_All_98: -4829974171660893758
+      King_All_99: -555392412895158041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
