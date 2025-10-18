@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 7530b10f141487241aeee782e61a0845
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1291375484228491784
+    second: FantasyCards_0
+  - first:
+      213: -4389898316024955728
+    second: FantasyCards_1
+  - first:
+      213: 3843338048442398426
+    second: FantasyCards_2
+  - first:
+      213: -3904436974100081589
+    second: FantasyCards_3
+  - first:
+      213: 3601070270329505848
+    second: FantasyCards_4
+  - first:
+      213: 713635986066160813
+    second: FantasyCards_5
+  - first:
+      213: -7386332674134897070
+    second: FantasyCards_6
+  - first:
+      213: 1365444944129610371
+    second: FantasyCards_7
+  - first:
+      213: -8880786660447057635
+    second: FantasyCards_8
+  - first:
+      213: 7649099948145085984
+    second: FantasyCards_9
+  - first:
+      213: 4400541789627234097
+    second: FantasyCards_10
+  - first:
+      213: 8983787106815678177
+    second: FantasyCards_11
+  - first:
+      213: -8607790931347234110
+    second: FantasyCards_12
+  - first:
+      213: 5034133003233892580
+    second: FantasyCards_13
+  - first:
+      213: 2160947879276995969
+    second: FantasyCards_14
+  - first:
+      213: 7418021273784139414
+    second: FantasyCards_15
+  - first:
+      213: -7794424716517647253
+    second: FantasyCards_16
+  - first:
+      213: -2980752750447694678
+    second: FantasyCards_17
+  - first:
+      213: 3925392168901271695
+    second: FantasyCards_18
+  - first:
+      213: 2130009796692902425
+    second: FantasyCards_19
+  - first:
+      213: -4679404483601087115
+    second: FantasyCards_20
+  - first:
+      213: -7289697240335792020
+    second: FantasyCards_21
+  - first:
+      213: -8616468383210798895
+    second: FantasyCards_22
+  - first:
+      213: 1687340320479802442
+    second: FantasyCards_23
+  - first:
+      213: -5887162596294012113
+    second: FantasyCards_24
+  - first:
+      213: -7174699712935629979
+    second: FantasyCards_25
+  - first:
+      213: 3773840139752843391
+    second: FantasyCards_26
+  - first:
+      213: 5831796107566315332
+    second: FantasyCards_27
+  - first:
+      213: 1825820752686908469
+    second: FantasyCards_28
+  - first:
+      213: -2265198990784945504
+    second: FantasyCards_29
+  - first:
+      213: 3194877070391873445
+    second: FantasyCards_30
+  - first:
+      213: 8248259143813168161
+    second: FantasyCards_31
+  - first:
+      213: -680723918426911856
+    second: FantasyCards_32
+  - first:
+      213: 1147074583756710137
+    second: FantasyCards_33
+  - first:
+      213: -178930727402974549
+    second: FantasyCards_34
+  - first:
+      213: -3499703133844718373
+    second: FantasyCards_35
+  - first:
+      213: 2149223427755961722
+    second: FantasyCards_36
+  - first:
+      213: -4239104169432824602
+    second: FantasyCards_37
+  - first:
+      213: -5962501668834080505
+    second: FantasyCards_38
+  - first:
+      213: -5535271851382197951
+    second: FantasyCards_39
+  - first:
+      213: 863766978158238266
+    second: FantasyCards_40
+  - first:
+      213: 8331647234928840646
+    second: FantasyCards_41
+  - first:
+      213: -3623427828037552758
+    second: FantasyCards_42
+  - first:
+      213: 1891886904896928500
+    second: FantasyCards_43
+  - first:
+      213: -4762081140584785083
+    second: FantasyCards_44
+  - first:
+      213: -5946644149241936266
+    second: FantasyCards_45
+  - first:
+      213: 3521453052758358654
+    second: FantasyCards_46
+  - first:
+      213: 8628194051348078595
+    second: FantasyCards_47
+  - first:
+      213: -4821613144101543776
+    second: FantasyCards_48
+  - first:
+      213: -5486795892327509824
+    second: FantasyCards_49
+  - first:
+      213: 6604775547051231187
+    second: FantasyCards_50
+  - first:
+      213: -8141220598575295825
+    second: FantasyCards_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FantasyCards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5a9eec6dc141ee0800000000000000
+      internalID: -1291375484228491784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc3f318db2f313c0800000000000000
+      internalID: -4389898316024955728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6f6299797465530800000000000000
+      internalID: 3843338048442398426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441dd63247a0d9c0800000000000000
+      internalID: -3904436974100081589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838c532e45299f130800000000000000
+      internalID: 3601070270329505848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacb868f52857e900800000000000000
+      internalID: 713635986066160813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e045d31997e7990800000000000000
+      internalID: -7386332674134897070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382d23731f803f210800000000000000
+      internalID: 1365444944129610371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d198602b59b11c480800000000000000
+      internalID: -8880786660447057635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e85ac40ef072a60800000000000000
+      internalID: 7649099948145085984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1373efd417dd11d30800000000000000
+      internalID: 4400541789627234097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e69b7786c2dcac70800000000000000
+      internalID: 8983787106815678177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2283401cbfa8880800000000000000
+      internalID: -8607790931347234110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e893d16b45dcd540800000000000000
+      internalID: 5034133003233892580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1856072a5aa3dfd10800000000000000
+      internalID: 2160947879276995969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eb130db0b12f660800000000000000
+      internalID: 7418021273784139414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cd0775404a4d390800000000000000
+      internalID: -7794424716517647253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaceb4a8a2d32a6d0800000000000000
+      internalID: -2980752750447694678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e577416bc97630800000000000000
+      internalID: 3925392168901271695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9128bf3ff905f8d10800000000000000
+      internalID: 2130009796692902425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575469a2a6a6f0fb0800000000000000
+      internalID: -4679404483601087115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68c3ad7bfac5da90800000000000000
+      internalID: -7289697240335792020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_22
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 107
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0065058a72c6880800000000000000
+      internalID: -8616468383210798895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 71
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a447461e413aa6710800000000000000
+      internalID: 1687340320479802442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 107
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23dde86fc89c4ea0800000000000000
+      internalID: -5887162596294012113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 71
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bef50df985e6c90800000000000000
+      internalID: -7174699712935629979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f782419cc9f5f5430800000000000000
+      internalID: 3773840139752843391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447fef169a3bee050800000000000000
+      internalID: 5831796107566315332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534807b0d4e965910800000000000000
+      internalID: 1825820752686908469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2a0b8f4856090e0800000000000000
+      internalID: -2265198990784945504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af8fb1b4cb765c20800000000000000
+      internalID: 3194877070391873445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cf95a7df3b77270800000000000000
+      internalID: 8248259143813168161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b4d0ce3359d86f0800000000000000
+      internalID: -680723918426911856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0a2b7a14a3bef00800000000000000
+      internalID: 1147074583756710137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba25eb1937f448df0800000000000000
+      internalID: -178930727402974549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc3ddfba8e8e6fc0800000000000000
+      internalID: -3499703133844718373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d675a025393dd10800000000000000
+      internalID: 2149223427755961722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e44417b73dab25c0800000000000000
+      internalID: -4239104169432824602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7098878a250f04da0800000000000000
+      internalID: -5962501668834080505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141352b0493ce23b0800000000000000
+      internalID: -5535271851382197951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_40
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a95dd7d77bcfb00800000000000000
+      internalID: 863766978158238266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf8cc76405ff9370800000000000000
+      internalID: 8331647234928840646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a857e80969ff6bdc0800000000000000
+      internalID: -3623427828037552758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa3899cd15514a10800000000000000
+      internalID: 1891886904896928500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b5bd7ee60b9edb0800000000000000
+      internalID: -4762081140584785083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_45
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67687c627a6497da0800000000000000
+      internalID: -5946644149241936266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_46
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a70eed4e6bed030800000000000000
+      internalID: 3521453052758358654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300adbb86c08db770800000000000000
+      internalID: 8628194051348078595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_48
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a029753460361db0800000000000000
+      internalID: -4821613144101543776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_49
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c01fbac43cfad3b0800000000000000
+      internalID: -5486795892327509824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_50
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 35
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7cc2fcd50e8ab50800000000000000
+      internalID: 6604775547051231187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyCards_51
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa293d7eff2940f80800000000000000
+      internalID: -8141220598575295825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FantasyCards_0: -1291375484228491784
+      FantasyCards_1: -4389898316024955728
+      FantasyCards_10: 4400541789627234097
+      FantasyCards_11: 8983787106815678177
+      FantasyCards_12: -8607790931347234110
+      FantasyCards_13: 5034133003233892580
+      FantasyCards_14: 2160947879276995969
+      FantasyCards_15: 7418021273784139414
+      FantasyCards_16: -7794424716517647253
+      FantasyCards_17: -2980752750447694678
+      FantasyCards_18: 3925392168901271695
+      FantasyCards_19: 2130009796692902425
+      FantasyCards_2: 3843338048442398426
+      FantasyCards_20: -4679404483601087115
+      FantasyCards_21: -7289697240335792020
+      FantasyCards_22: -8616468383210798895
+      FantasyCards_23: 1687340320479802442
+      FantasyCards_24: -5887162596294012113
+      FantasyCards_25: -7174699712935629979
+      FantasyCards_26: 3773840139752843391
+      FantasyCards_27: 5831796107566315332
+      FantasyCards_28: 1825820752686908469
+      FantasyCards_29: -2265198990784945504
+      FantasyCards_3: -3904436974100081589
+      FantasyCards_30: 3194877070391873445
+      FantasyCards_31: 8248259143813168161
+      FantasyCards_32: -680723918426911856
+      FantasyCards_33: 1147074583756710137
+      FantasyCards_34: -178930727402974549
+      FantasyCards_35: -3499703133844718373
+      FantasyCards_36: 2149223427755961722
+      FantasyCards_37: -4239104169432824602
+      FantasyCards_38: -5962501668834080505
+      FantasyCards_39: -5535271851382197951
+      FantasyCards_4: 3601070270329505848
+      FantasyCards_40: 863766978158238266
+      FantasyCards_41: 8331647234928840646
+      FantasyCards_42: -3623427828037552758
+      FantasyCards_43: 1891886904896928500
+      FantasyCards_44: -4762081140584785083
+      FantasyCards_45: -5946644149241936266
+      FantasyCards_46: 3521453052758358654
+      FantasyCards_47: 8628194051348078595
+      FantasyCards_48: -4821613144101543776
+      FantasyCards_49: -5486795892327509824
+      FantasyCards_5: 713635986066160813
+      FantasyCards_50: 6604775547051231187
+      FantasyCards_51: -8141220598575295825
+      FantasyCards_6: -7386332674134897070
+      FantasyCards_7: 1365444944129610371
+      FantasyCards_8: -8880786660447057635
+      FantasyCards_9: 7649099948145085984
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
