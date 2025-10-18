@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 37c411a0731ef89468ec37ed56bc64c5
+guid: d75e0edd5881aa04c80691c155c0f913
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7136383287765143013
-    second: Queen_Idle_Front_0
+      213: 4911532448039712126
+    second: Magics_Faces_0
   - first:
-      213: -6581195027740247645
-    second: Queen_Idle_Front_1
+      213: 8551386433445996652
+    second: Magics_Faces_1
   - first:
-      213: -6729732869980355152
-    second: Queen_Idle_Front_2
-  - first:
-      213: 4924353963858227647
-    second: Queen_Idle_Front_3
+      213: -3606367784996574972
+    second: Magics_Faces_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -122,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Queen_Idle_Front_0
+      name: Magics_Faces_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 3
-        width: 13
-        height: 17
+        x: 0
+        y: 0
+        width: 23
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ed86404ac6890360800000000000000
-      internalID: 7136383287765143013
+      spriteID: e7536343db4492440800000000000000
+      internalID: 4911532448039712126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Queen_Idle_Front_1
+      name: Magics_Faces_1
       rect:
         serializedVersion: 2
-        x: 29
-        y: 3
-        width: 13
-        height: 17
+        x: 24
+        y: 0
+        width: 23
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a9b9fdadf5eaa4a0800000000000000
-      internalID: -6581195027740247645
+      spriteID: c68a4ae67a0aca670800000000000000
+      internalID: 8551386433445996652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Queen_Idle_Front_2
+      name: Magics_Faces_2
       rect:
         serializedVersion: 2
-        x: 53
-        y: 3
-        width: 13
-        height: 16
+        x: 48
+        y: 0
+        width: 23
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,30 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b50d834c9f2b92a0800000000000000
-      internalID: -6729732869980355152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Queen_Idle_Front_3
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 2
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb17e0cf6d1d65440800000000000000
-      internalID: 4924353963858227647
+      spriteID: 409eddd5b9b93fdc0800000000000000
+      internalID: -3606367784996574972
       vertices: []
       indices: 
       edges: []
@@ -213,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 111e64409acadc447ad92bb5605ecc8e
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Queen_Idle_Front_0: 7136383287765143013
-      Queen_Idle_Front_1: -6581195027740247645
-      Queen_Idle_Front_2: -6729732869980355152
-      Queen_Idle_Front_3: 4924353963858227647
+      Magics_Faces_0: 4911532448039712126
+      Magics_Faces_1: 8551386433445996652
+      Magics_Faces_2: -3606367784996574972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

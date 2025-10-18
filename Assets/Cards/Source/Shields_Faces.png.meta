@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: faaec91bdb93ecd48aca6d65a302d627
+guid: f02dc533230f20541b3c610c279deb33
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1272443555595939814
-    second: Jester_Idle_Front_0
+      213: 5761910224085945374
+    second: Shields_Faces_0
   - first:
-      213: -3134575264777550613
-    second: Jester_Idle_Front_1
+      213: 5255847613838409039
+    second: Shields_Faces_1
   - first:
-      213: -5228194868314642761
-    second: Jester_Idle_Front_2
-  - first:
-      213: 2700230852316592873
-    second: Jester_Idle_Front_3
+      213: -8033438203749887102
+    second: Shields_Faces_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jester_Idle_Front_0
+      name: Shields_Faces_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 3
-        width: 13
-        height: 15
+        x: 0
+        y: 0
+        width: 24
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a1018ffe35f575ee0800000000000000
-      internalID: -1272443555595939814
+      spriteID: e1c855622da66ff40800000000000000
+      internalID: 5761910224085945374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jester_Idle_Front_1
+      name: Shields_Faces_1
       rect:
         serializedVersion: 2
-        x: 29
-        y: 3
-        width: 13
-        height: 15
+        x: 23
+        y: 0
+        width: 25
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: be445358760cf74d0800000000000000
-      internalID: -3134575264777550613
+      spriteID: f4d3c60ee8580f840800000000000000
+      internalID: 5255847613838409039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jester_Idle_Front_2
+      name: Shields_Faces_2
       rect:
         serializedVersion: 2
-        x: 53
-        y: 3
-        width: 13
-        height: 15
+        x: 47
+        y: 0
+        width: 24
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,30 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b6e599a778b177b0800000000000000
-      internalID: -5228194868314642761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jester_Idle_Front_3
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 1
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ea71eb57a5297520800000000000000
-      internalID: 2700230852316592873
+      spriteID: 2839f64448e738090800000000000000
+      internalID: -8033438203749887102
       vertices: []
       indices: 
       edges: []
@@ -223,10 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Jester_Idle_Front_0: -1272443555595939814
-      Jester_Idle_Front_1: -3134575264777550613
-      Jester_Idle_Front_2: -5228194868314642761
-      Jester_Idle_Front_3: 2700230852316592873
+      Shields_Faces_0: 5761910224085945374
+      Shields_Faces_1: 5255847613838409039
+      Shields_Faces_2: -8033438203749887102
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
