@@ -1,6 +1,8 @@
 using NUnit.Framework;
+using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -19,8 +21,9 @@ public class GameMaster : MonoBehaviour
     bool ready = false;
     bool deckReady = false;
 
-    string[] selected;
-    string selectedSuit;
+    List<string> selected = new List<string>();
+    List<string[]> selectedCards = new List<string[]>();
+    string selectedSuit = "None";
 
     playerDeck pDeck;
 
@@ -85,24 +88,34 @@ public class GameMaster : MonoBehaviour
         }
     }
 
-    public void addSelected(string position, string[] card)
+    public void AddSelected(string position, string[] card)
     {
-
+        selectedSuit = card[1];
+        selectedCards.Add(card);
+        selected.Add(position);
+        Debug.Log(selected.Count());
     }
 
-    public void removeSelected()
+    public void RemoveSelected(string position, string[] card)
     {
-
+        selectedCards.Remove(card);
+        selected.Remove(position);
+        Debug.Log(selected.Count());
     }
 
     public bool CheckSelected(string suit)
     {
-        if (selectedSuit == suit || selected.Count() == 0)
+        if (selected == null || selected.Count() == 0)
+        {
+            return true;
+        }
+        else if (selectedSuit == suit)
         {
             return true;
         }
         else
         {
+            Debug.Log($"{suit} != {selectedSuit}");
             return false;
         }
     }
