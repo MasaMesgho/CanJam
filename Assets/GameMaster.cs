@@ -24,6 +24,7 @@ public class GameMaster : MonoBehaviour
     List<string> selected = new List<string>();
     List<string[]> selectedCards = new List<string[]>();
     string selectedSuit = "None";
+    public int selectedTotal = 0;
 
     playerDeck pDeck;
 
@@ -93,29 +94,36 @@ public class GameMaster : MonoBehaviour
         selectedSuit = card[1];
         selectedCards.Add(card);
         selected.Add(position);
-        Debug.Log(selected.Count());
+        if (card[0] != "A") { selectedTotal += int.Parse(card[0]); }
     }
 
     public void RemoveSelected(string position, string[] card)
     {
         selectedCards.Remove(card);
         selected.Remove(position);
-        Debug.Log(selected.Count());
+        if (card[0] != "A") { selectedTotal -= int.Parse(card[0]); }
     }
 
-    public bool CheckSelected(string suit)
+    public bool CheckSelected(string[] card)
     {
         if (selected == null || selected.Count() == 0)
         {
             return true;
         }
-        else if (selectedSuit == suit)
+        else if (selectedSuit == card[1])
         {
-            return true;
+            if (card[0] == "A" || (int.Parse(card[0]) + selectedTotal) <= 10)
+            {
+                return true;
+            }
+            else {
+                Debug.Log("Total > 10");
+                return false; 
+            }
         }
         else
         {
-            Debug.Log($"{suit} != {selectedSuit}");
+            Debug.Log($"{card[1]} != {selectedSuit}");
             return false;
         }
     }

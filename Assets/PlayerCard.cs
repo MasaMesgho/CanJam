@@ -35,7 +35,7 @@ public class PlayerCard : MonoBehaviour
             }
             else
             {
-                if (GameObject.Find("Game Master").GetComponent<GameMaster>().CheckSelected(card[1]))
+                if (GameObject.Find("Game Master").GetComponent<GameMaster>().CheckSelected(card))
                 {
                     this.GetComponent<SpriteRenderer>().color = Color.white;
                     this.selected = true;
