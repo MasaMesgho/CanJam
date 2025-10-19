@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using System.Collections.Generic;
 using UnityEngine;
-
+using TMPro;
 public class CastleController : MonoBehaviour
 {
 
@@ -12,6 +12,9 @@ public class CastleController : MonoBehaviour
 
     public int hp;
     public int damage;
+
+    public TMP_Text HPOut;
+    public TMP_Text DamOut;
 
     public castleDeck Deck;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -26,6 +29,9 @@ public class CastleController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        HPOut.text = hp.ToString();
+        DamOut.text = damage.ToString();
         string currentSuit = CastleDeck.GetDrawnCard()[1];
 
         switch (currentSuit)
@@ -71,6 +77,8 @@ public class CastleController : MonoBehaviour
                     PowerDial.transform.GetChild(3).gameObject.SetActive(true);
                     break;
                 }
+
+
         }
     }
 

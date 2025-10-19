@@ -238,6 +238,7 @@ public class PlayerController : MonoBehaviour
         while (i < value & i < empty.Count)
         {
             empty[i].GetComponent<PlayerCard>().Draw(pDeck.Draw());
+            i++;
         }
     }
 
@@ -266,16 +267,20 @@ public class PlayerController : MonoBehaviour
 
     public void Heal(int value)
     {
-        List<string[]> targets = new(Discard.GetAllCards());
+       // List<string[]> targets = new(Discard.GetAllCards());
 
         int i = 0;
 
         while (i < value | i <= Discard.GetCount())
         {
+            if (Discard.GetCount() == 0)
+            {
+                Debug.Log("Discard has no cards!");
+                    break; }
             string[] target = Discard.GetCard(Random.Range(0, Discard.GetCount()));
 
             Deck.AddCard(target);
-            
+            i++;
 
         }
 

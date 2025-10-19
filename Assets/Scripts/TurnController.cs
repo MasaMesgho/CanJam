@@ -73,7 +73,7 @@ public class TurnController : MonoBehaviour
                         { Player.Heal(total); break; }
 
                     case "Spades":
-                        { CastleIncomingAttack -= total; break; }
+                        { Castle.ReduceDamage(total); break; }
 
                     case "Diamonds":
                         { Player.Draw(total); break; }
