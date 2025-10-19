@@ -27,11 +27,11 @@ public class PlayerCard : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Debug.Log(card);
             if (selected)
             {
                 this.GetComponent<SpriteRenderer>().color = Color.cyan;
                 this.selected = false;
+                GameObject.Find("Game Master").GetComponent<GameMaster>().RemoveSelected(this.name, this.card);
             }
             else
             {
@@ -39,6 +39,7 @@ public class PlayerCard : MonoBehaviour
                 {
                     this.GetComponent<SpriteRenderer>().color = Color.white;
                     this.selected = true;
+                    GameObject.Find("Game Master").GetComponent<GameMaster>().AddSelected(this.name, this.card);
                 }
             }
         }
