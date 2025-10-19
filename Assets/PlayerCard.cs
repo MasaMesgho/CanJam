@@ -2,44 +2,19 @@ using System.Linq;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEditor;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.U2D;
+using UnityEngine.UI;
 
 public class PlayerCard : MonoBehaviour
 {
     public string[] card;
+    public bool selected = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        var deck = GameObject.Find("Player Deck");
-        this.card = deck.GetComponent<playerDeck>().Draw();
-        deck = default;
-        Sprite[] cardFaces1 = Resources.LoadAll<Sprite>("Swords_Ranks");
-        Sprite[] cardFaces2 = Resources.LoadAll<Sprite>("Skulls_Ranks");
-        Sprite[] cardFaces3 = Resources.LoadAll<Sprite>("Shields_Ranks");
-        Sprite[] cardFaces4 = Resources.LoadAll<Sprite>("Magics_Ranks");
-        int num;
-        if (card[0] == "A") { num = 0; }
-        else
-        {
-            num = int.Parse(card[0])-1;
-        }
-        switch (card[1])
-        {
-            case "Clubs":
-                this.gameObject.GetComponent<SpriteRenderer>().sprite = cardFaces1[num];
-                break;
-            case "Hearts":
-                this.gameObject.GetComponent<SpriteRenderer>().sprite = cardFaces2[num];
-                break;
-            case "Diamonds":
-                this.gameObject.GetComponent<SpriteRenderer>().sprite = cardFaces4[num];
-                break;
-            case "Spades":
-                this.gameObject.GetComponent<SpriteRenderer>().sprite = cardFaces3[num];
-                break;
-
-        }
+        this.GetComponent<SpriteRenderer>().color = Color.cyan;
     }
 
         // Update is called once per frame
@@ -48,16 +23,53 @@ public class PlayerCard : MonoBehaviour
         
     }
 
+    private void OnMouseOver()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            Debug.Log(card);
+            if (selected)
+            {
+                this.GetComponent<SpriteRenderer>().color = Color.cyan;
+                this.selected = false;
+            }
+            else
+            {
+                if (GameObject.Find("Game Master").GetComponent<GameMaster>().CheckSelected(card[1]))
+                {
+                    this.GetComponent<SpriteRenderer>().color = Color.white;
+                    this.selected = true;
+                }
+            }
+        }
+    }
+
+    public void OnClick()
+    {
+        Debug.Log(card);
+        if (selected)
+        {
+            this.GetComponent<SpriteRenderer>().color = new Color(53, 173, 129);
+            this.selected = false;
+        }
+        else
+        {
+            this.GetComponent<SpriteRenderer>().color = new Color(255, 255, 255);
+            this.selected = true;
+        }
+    }
+
+
     public void Discard()
     {
         var discard = GameObject.Find("Player Discard");
         discard.GetComponent<playerDiscard>().AddCard(this.card);
         this.enabled = false;
     }
-    public void Draw()
+    public void Draw(string[] Card)
     {
-        var deck = GameObject.Find("Player Deck");
-        this.card = deck.GetComponent<playerDeck>().Draw();
+        this.card = Card;
+        this.GetComponent<SpriteRenderer>().sprite = GameObject.Find("Game Master").GetComponent<GameMaster>().GetCardSprite(Card);
     }
 
 }

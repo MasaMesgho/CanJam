@@ -10,10 +10,15 @@ public class playerDeck : MonoBehaviour
     string[] numbers = new string[] { "A", "2", "3", "4", "5", "6", "7", "8", "9", "10" };
     string[] suits = new string[] { "Clubs", "Hearts", "Spades", "Diamonds" };
     List<string[]> deckList = new List<string[]>();
+    public int deckSize;
+    public int lastCount;
+    public string[] lastCard;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Debug.Log(deckSize);
         foreach (string suit in suits)
         {
             foreach (string number in numbers)
@@ -22,6 +27,9 @@ public class playerDeck : MonoBehaviour
                 deckList.Add(temp);
             }
         }
+        shuffle();
+        deckSize = deckList.Count;
+        GameObject.Find("Game Master").GetComponent<GameMaster>().DeckLoaded();
 
     }
 
@@ -31,11 +39,28 @@ public class playerDeck : MonoBehaviour
         
     }
 
+    private void shuffle()
+    {
+        List<string[]> tempList = new List<string[]>();
+        while (deckList.Count > 0)
+        {
+            int rint = Random.Range(0, deckList.Count - 1);
+            tempList.Add(deckList[rint]);
+            deckList.RemoveAt(rint);
+            deckSize = deckList.Count;
+            lastCount = rint;
+        }
+        deckList = tempList;
+        
+    }
+
     public string[] Draw()
     {
-        int rint = Random.Range(0, deckList.Count - 1);
-        string[] temp = deckList[rint];
-        deckList.Remove(temp);
+        deckSize = this.deckList.Count;
+        string[] temp = this.deckList[1];
+        deckList.RemoveAt(0);
+        deckSize = this.deckList.Count;
+        lastCard = temp;
         return temp;
     }
 
