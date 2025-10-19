@@ -4,6 +4,9 @@ using UnityEngine;
 public class castleDeck : MonoBehaviour
 {
     List<string[]> deckList = new List<string[]>();
+    public int deckCount;
+    public string[] DrawnCard;
+    public string[] DeckCard;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -17,7 +20,9 @@ public class castleDeck : MonoBehaviour
             CreateStack(deckList, face, suits);
         }
         Debug.Log($"castle contains {deckList.Count} cards");
-        GetTopCard();
+        Debug.Log($"Top card of the castle is {this.deckList[0][0].ToString()} of {this.deckList[0][1]}");
+        DeckCard = GetTopCard();
+        deckCount = deckList.Count;
     }
 
     // Update is called once per frame
@@ -53,7 +58,7 @@ public class castleDeck : MonoBehaviour
 
     {
         
-        Debug.Log($"Top card of the castle is {this.deckList[0][0].ToString()} of {this.deckList[0][1]}");
+
         return this.deckList[0];
     }
 }
