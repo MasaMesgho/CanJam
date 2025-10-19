@@ -16,8 +16,8 @@ public class CastleController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-       
-
+        hp = 30;
+        damage = 1;
 
        
     }
@@ -73,11 +73,20 @@ public class CastleController : MonoBehaviour
         }
     }
 
-    public void SetEnemy(string[] Card)
+    /// <summary>
+    /// Reduces the castle's health points (HP) by the specified damage amount.
+    /// </summary>
+    /// <remarks>If the damage reduces the castle's HP below zero, the resulting HP will reflect the negative
+    /// value.</remarks>
+    /// <param name="dam">The amount of damage to apply. Must be a non-negative integer.</param>
+    /// <returns>The remaining health points (HP) of the castle after applying the damage.</returns>
+    public int TakeDamage(int dam)
     { 
      
+        hp -= dam;
+        Debug.Log($"Castle took {dam} damage, {hp} HP remaining.");
 
-    
+        return hp;
     }
 
 }

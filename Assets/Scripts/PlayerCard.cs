@@ -60,13 +60,26 @@ public class PlayerCard : MonoBehaviour
         }
     }
 
-
+    /// <summary>
+    /// Discards the current card by adding it to the player's discard pile.
+    /// </summary>
+    /// <remarks>This method locates the player's discard pile and adds the associated card to it.  Once the
+    /// card is discarded, the current object is disabled.</remarks>
     public void Discard()
     {
         var discard = GameObject.Find("Player Discard");
         discard.GetComponent<playerDiscard>().AddCard(this.card);
+        this.GetComponent<SpriteRenderer>().sprite = Resources.Load<Sprite>("Card");
         this.enabled = false;
     }
+
+    /// <summary>
+    /// Updates the card display by setting the sprite based on the specified card data.
+    /// </summary>
+    /// <remarks>The method retrieves the appropriate sprite for the card by interacting with the
+    /// PlayerController component. Ensure that the card data provided is valid and that the PlayerController component
+    /// is properly configured.</remarks>
+    /// <param name="Card">An array of strings representing the card data. The data is used to determine the sprite to display.</param>
     public void Draw(string[] Card)
     {
         this.card = Card;

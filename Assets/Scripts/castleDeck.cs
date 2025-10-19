@@ -45,6 +45,17 @@ public class castleDeck : MonoBehaviour
         
     }
 
+    /// <summary>
+    /// Creates a shuffled stack of cards by combining the specified face value with each suit and appending the
+    /// resulting cards to the provided deck.
+    /// </summary>
+    /// <remarks>The method generates a temporary list of cards by combining the specified face value with
+    /// each suit. The cards are then shuffled and added to the provided deck list. The original deck list is modified
+    /// directly, and the same list is returned for convenience.</remarks>
+    /// <param name="DeckList">The list to which the generated cards will be added. This list is modified in place.</param>
+    /// <param name="Face">The face value to assign to each card in the stack (e.g., "Ace", "King").</param>
+    /// <param name="Suits">An array of suits to combine with the face value (e.g., "Hearts", "Diamonds").</param>
+    /// <returns>The updated deck list containing the newly added shuffled cards.</returns>
     private List<string[]> CreateStack(List<string[]> DeckList, string Face, string[] Suits)
 
 

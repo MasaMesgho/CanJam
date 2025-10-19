@@ -39,6 +39,12 @@ public class playerDeck : MonoBehaviour
         
     }
 
+    /// <summary>
+    /// Randomizes the order of elements in the deck list.
+    /// </summary>
+    /// <remarks>This method shuffles the elements in the <c>deckList</c> collection, ensuring that their
+    /// order is randomized.  The operation modifies the original <c>deckList</c> and updates its state
+    /// accordingly.</remarks>
     private void shuffle()
     {
         List<string[]> tempList = new List<string[]>();
@@ -54,6 +60,12 @@ public class playerDeck : MonoBehaviour
         
     }
 
+    /// <summary>
+    /// Draws the top card from the deck and removes it from the deck.
+    /// </summary>
+    /// <remarks>After the card is drawn, the deck size is updated, and the drawn card is stored as the last
+    /// card.</remarks>
+    /// <returns>An array of strings representing the drawn card. The array contains the card's details.</returns>
     public string[] Draw()
     {
         deckSize = this.deckList.Count;
