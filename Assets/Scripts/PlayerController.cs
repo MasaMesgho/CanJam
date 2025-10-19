@@ -34,6 +34,7 @@ public class PlayerController : MonoBehaviour
     playerDiscard Discard;
     playerDeck Deck;
 
+    public bool Jester = true;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -78,10 +79,12 @@ public class PlayerController : MonoBehaviour
         {
             pDeck = GameObject.Find("Player Deck").GetComponent<playerDeck>();
 
-            foreach (GameObject card in hand)
-            {
-                card.GetComponent<PlayerCard>().Draw(pDeck.Draw());
-            }
+
+                foreach (GameObject card in hand)
+                {
+                    card.GetComponent<PlayerCard>().Draw(pDeck.Draw());
+                }
+            
 
         }
         else { deckReady = true; }
