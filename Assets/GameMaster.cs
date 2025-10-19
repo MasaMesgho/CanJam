@@ -85,7 +85,17 @@ public class GameMaster : MonoBehaviour
         }
     }
 
-    public bool checkSelected(string suit)
+    public void addSelected(string position, string[] card)
+    {
+
+    }
+
+    public void removeSelected()
+    {
+
+    }
+
+    public bool CheckSelected(string suit)
     {
         if (selectedSuit == suit || selected.Count() == 0)
         {
