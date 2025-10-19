@@ -2,6 +2,7 @@ using NUnit.Framework;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.Linq;
+using System.Runtime.Versioning;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
@@ -30,6 +31,9 @@ public class PlayerController : MonoBehaviour
 
     playerDeck pDeck;
 
+    playerDiscard Discard;
+    playerDeck Deck;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -50,8 +54,8 @@ public class PlayerController : MonoBehaviour
 
         if (deckReady) { DeckLoaded(); }
 
-
-
+        Discard = GameObject.Find("Player Discard").GetComponent<playerDiscard>();
+        Deck = GameObject.Find("Player Deck").GetComponent<playerDeck>();
     }
 
     // Update is called once per frame
@@ -210,6 +214,40 @@ public class PlayerController : MonoBehaviour
         selectedTotal = 0;
      }
 
+    /// <summary>
+    /// Draws the specified number of cards from the deck and assigns them to empty slots in the player's hand.
+    /// </summary>
+    /// <remarks>This method iterates through the player's hand to identify empty slots and fills them with
+    /// cards drawn  from the deck. If the number of empty slots is less than the specified value, only the available
+    /// slots  will be filled.</remarks>
+    /// <param name="value">The number of cards to draw. Must be a positive integer.</param>
+    public void Draw(int value)
+    {
+        List<GameObject> empty = new();
+
+        foreach (GameObject card in hand)
+        {
+           if (card.GetComponent<PlayerCard>().card[0] == null)
+            {
+                empty.Add(card);
+            }
+
+        }
+
+        int i = 0;
+        while (i < value & i < empty.Count)
+        {
+            empty[i].GetComponent<PlayerCard>().Draw(pDeck.Draw());
+        }
+    }
+
+
+    /// <summary>
+    /// Draws new cards for the player, discarding any existing cards in their hand.
+    /// </summary>
+    /// <remarks>This method iterates through all cards in the player's hand. If a card is not null, it is
+    /// discarded  before drawing a new card from the player's deck. The method assumes that each card in the hand  has
+    /// a <see cref="PlayerCard"/> component and that the player's deck is accessible via <c>pDeck</c>.</remarks>
     public void JesterDraw()
     {
         foreach (GameObject card in hand)
@@ -225,4 +263,21 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+
+    public void Heal(int value)
+    {
+        List<string[]> targets = new(Discard.GetAllCards());
+
+        int i = 0;
+
+        while (i < value | i <= Discard.GetCount())
+        {
+            string[] target = Discard.GetCard(Random.Range(0, Discard.GetCount()));
+
+            Deck.AddCard(target);
+            
+
+        }
+
+    }
 }

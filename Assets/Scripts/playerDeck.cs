@@ -69,11 +69,22 @@ public class playerDeck : MonoBehaviour
     public string[] Draw()
     {
         deckSize = this.deckList.Count;
+
+        if (deckSize == 0)
+        {
+            Debug.Log("The deck is out of cards.");
+            return null;
+        }
         string[] temp = this.deckList[1];
         deckList.RemoveAt(0);
         deckSize = this.deckList.Count;
         lastCard = temp;
         return temp;
+    }
+
+    public void AddCard(string[] card)
+    {
+        deckList.Add(card);
     }
 
 }

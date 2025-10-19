@@ -13,19 +13,20 @@ public class CastleController : MonoBehaviour
     public int hp;
     public int damage;
 
+    public castleDeck Deck;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         hp = 30;
         damage = 1;
 
-       
+        Deck = CastleDeck.GetComponent<castleDeck>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        string currentSuit = CastleDeck.GetTopCard()[1];
+        string currentSuit = CastleDeck.GetDrawnCard()[1];
 
         switch (currentSuit)
 
@@ -88,5 +89,13 @@ public class CastleController : MonoBehaviour
 
         return hp;
     }
+    public int GetDamage()
+    { return this.damage; }
 
+    public int ReduceDamage(int value)
+    { damage -= value;
+      if (damage <0) { damage = 0; }
+
+      return damage;
+    }
 }

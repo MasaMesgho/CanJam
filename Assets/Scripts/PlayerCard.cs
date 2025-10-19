@@ -86,8 +86,11 @@ public class PlayerCard : MonoBehaviour
     /// <param name="Card">An array of strings representing the card data. The data is used to determine the sprite to display.</param>
     public void Draw(string[] Card)
     {
-        this.card = Card;
-        this.GetComponent<SpriteRenderer>().sprite = GameObject.Find("PlayerController").GetComponent<PlayerController>().GetCardSprite(Card);
+        if (Card != null)
+        {
+            this.card = Card;
+            this.GetComponent<SpriteRenderer>().sprite = GameObject.Find("PlayerController").GetComponent<PlayerController>().GetCardSprite(Card);
+        }
     }
 
 }

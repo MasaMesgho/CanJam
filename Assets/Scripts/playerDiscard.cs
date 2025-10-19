@@ -38,4 +38,14 @@ public class playerDiscard : MonoBehaviour
         return temp;
     }
 
+    public int GetCount()
+    { return discardList.Count; }
+
+    public string[] GetCard(int pos)
+    {
+
+        string[] card = discardList[pos];
+        discardList.Remove(card);
+        return card;
+    }
 }

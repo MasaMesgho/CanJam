@@ -3,14 +3,25 @@ using UnityEngine;
 
 public class TurnController : MonoBehaviour
 {
-
+    //public fields
     public GameObject turnButton;
-    public GameObject CastleController;
-    public GameObject PlayerController;
+    public GameObject castleController;
+    public GameObject playerController;
+    public GameObject TurnPointer;
+
+
+    //private fields
+    private CastleController Castle;
+
+
+    private PlayerController Player;
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+         Castle = castleController.GetComponent<CastleController>();
+         Player = playerController.GetComponent<PlayerController>();
     }
 
     // Update is called once per frame
@@ -23,11 +34,13 @@ public class TurnController : MonoBehaviour
 
     {
 
+        int CastleIncomingAttack = this.Castle.GetDamage();
+
         //catch if the player decked out first
 
-        
+
         //Castle Damage Logic
-        int hp = CastleController.GetComponent<CastleController>().TakeDamage(total);
+        int hp = Castle.TakeDamage(total);
 
         switch (hp)
         {
@@ -43,6 +56,32 @@ public class TurnController : MonoBehaviour
         }
 
         //Player Power Logic
+
+        string[] CastleSuit = Castle.Deck.GetDrawnCard();
+        {
+            if (suit != CastleSuit[1])
+            {
+
+
+                switch (suit)
+
+                {
+                    case "Clubs":
+                        { hp = Castle.TakeDamage(total); break; }
+
+                    case "Hearts":
+                        { Player.Heal(total); break; }
+
+                    case "Spades":
+                        { CastleIncomingAttack -= total; break; }
+
+                    case "Diamonds":
+                        { Player.Draw(total); break; }
+                }
+
+            }
+
+        }
 
         //enemy attack sequence
 

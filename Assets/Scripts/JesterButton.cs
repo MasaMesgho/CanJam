@@ -21,8 +21,9 @@ public class JesterButton : MonoBehaviour
         {
             Debug.Log("Player used a Jester");
 
-            GameObject.Find("PlayerController").GetComponent<PlayerController>().JesterDraw();
-            jester.SetActive(false);
+            //GameObject.Find("PlayerController").GetComponent<PlayerController>().JesterDraw();
+            GameObject.Find("PlayerController").GetComponent<PlayerController>().Draw(5);
+            //jester.SetActive(false);
         }
     }
 }
