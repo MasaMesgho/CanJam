@@ -4,6 +4,7 @@ using Unity.VisualScripting;
 using UnityEditor;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
+using UnityEngine.Rendering;
 using UnityEngine.U2D;
 using UnityEngine.UI;
 
@@ -25,7 +26,7 @@ public class PlayerCard : MonoBehaviour
 
     private void OnMouseOver()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && this.GetComponent<PlayerCard>().card[0] != null)   
         {
             if (selected)
             {
@@ -35,7 +36,7 @@ public class PlayerCard : MonoBehaviour
             }
             else
             {
-                if (GameObject.Find("PlayerController").GetComponent<PlayerController>().CheckSelected(card))
+                if (GameObject.Find("PlayerController").GetComponent<PlayerController>().CheckSelected(card) )
                 {
                     this.GetComponent<SpriteRenderer>().color = Color.white;
                     this.selected = true;
@@ -69,7 +70,10 @@ public class PlayerCard : MonoBehaviour
     {
         var discard = GameObject.Find("Player Discard");
         discard.GetComponent<playerDiscard>().AddCard(this.card);
+        this.card[0] = null;
+        this.card[1] = null;
         this.GetComponent<SpriteRenderer>().sprite = Resources.Load<Sprite>("Card");
+        
         this.enabled = false;
     }
 

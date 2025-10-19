@@ -198,6 +198,8 @@ public class PlayerController : MonoBehaviour
             if (card.GetComponent<PlayerCard>().selected) { card.GetComponent<PlayerCard>().Discard(); }
 
             card.GetComponent<PlayerCard>().selected = false;
+            card.GetComponent<SpriteRenderer>().color = Color.cyan;
+
 
         }
 
