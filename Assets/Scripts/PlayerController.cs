@@ -6,9 +6,9 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class GameMaster : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
     public Sprite[] cardFaces1;
     public Sprite[] cardFaces2;
     public Sprite[] cardFaces3;
@@ -28,6 +28,7 @@ public class GameMaster : MonoBehaviour
 
     playerDeck pDeck;
 
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         cardFaces1 = Resources.LoadAll<Sprite>("Swords_Ranks");
@@ -44,6 +45,9 @@ public class GameMaster : MonoBehaviour
     void Update()
     {
         
+
+
+
     }
 
     public void DeckLoaded()

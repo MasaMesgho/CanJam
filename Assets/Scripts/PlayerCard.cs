@@ -31,15 +31,15 @@ public class PlayerCard : MonoBehaviour
             {
                 this.GetComponent<SpriteRenderer>().color = Color.cyan;
                 this.selected = false;
-                GameObject.Find("Game Master").GetComponent<GameMaster>().RemoveSelected(this.name, this.card);
+                GameObject.Find("PlayerController").GetComponent<PlayerController>().RemoveSelected(this.name, this.card);
             }
             else
             {
-                if (GameObject.Find("Game Master").GetComponent<GameMaster>().CheckSelected(card))
+                if (GameObject.Find("PlayerController").GetComponent<PlayerController>().CheckSelected(card))
                 {
                     this.GetComponent<SpriteRenderer>().color = Color.white;
                     this.selected = true;
-                    GameObject.Find("Game Master").GetComponent<GameMaster>().AddSelected(this.name, this.card);
+                    GameObject.Find("PlayerController").GetComponent<PlayerController>().AddSelected(this.name, this.card);
                 }
             }
         }
@@ -70,7 +70,7 @@ public class PlayerCard : MonoBehaviour
     public void Draw(string[] Card)
     {
         this.card = Card;
-        this.GetComponent<SpriteRenderer>().sprite = GameObject.Find("Game Master").GetComponent<GameMaster>().GetCardSprite(Card);
+        this.GetComponent<SpriteRenderer>().sprite = GameObject.Find("PlayerController").GetComponent<PlayerController>().GetCardSprite(Card);
     }
 
 }

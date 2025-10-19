@@ -29,7 +29,7 @@ public class playerDeck : MonoBehaviour
         }
         shuffle();
         deckSize = deckList.Count;
-        GameObject.Find("Game Master").GetComponent<GameMaster>().DeckLoaded();
+        GameObject.Find("PlayerController").GetComponent<PlayerController>().DeckLoaded();
 
     }
 

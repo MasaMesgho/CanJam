@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class castleDeck : MonoBehaviour
@@ -11,6 +12,8 @@ public class castleDeck : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+
+        // Create the castle deck
         string[] Faces = new string[] { "Jack", "Queen", "King" };
         string[] suits = new string[] { "Clubs", "Hearts", "Spades", "Diamonds" };
 
@@ -21,12 +24,23 @@ public class castleDeck : MonoBehaviour
         }
         Debug.Log($"castle contains {deckList.Count} cards");
         Debug.Log($"Top card of the castle is {this.deckList[0][0].ToString()} of {this.deckList[0][1]}");
-        DeckCard = GetTopCard();
+        DrawnCard = deckList[0];
+        deckList.RemoveAt(0);
+        DeckCard = deckList[0];
         deckCount = deckList.Count;
-    }
 
-    // Update is called once per frame
-    void Update()
+
+        // Check for Jester
+        //if (GameObject.Find("Castle Controller").GetComponent<CastleController>().Jester)
+        //{
+          //  string[] jester = new string[] { "Jester", "Jester" };
+            //DrawnCard = jester;
+
+        //}
+
+    }
+        // Update is called once per frame
+        void Update()
     {
         
     }
@@ -54,11 +68,16 @@ public class castleDeck : MonoBehaviour
         return DeckList;
     }
 
-    public string[] GetTopCard()
+    public string[] GetDrawnCard()
 
     {
         
 
-        return this.deckList[0];
+        return this.DrawnCard;
+    }
+
+    public string[] GetTopCard()
+    {
+        return this.DeckCard;
     }
 }
