@@ -208,6 +208,21 @@ public class PlayerController : MonoBehaviour
         selectedCards.Clear();
         selectedSuit = "None";
         selectedTotal = 0;
+     }
+
+    public void JesterDraw()
+    {
+        foreach (GameObject card in hand)
+        {
+            if  (card.GetComponent<PlayerCard>().card[0] != null)
+            { 
+                card.GetComponent<PlayerCard>().Discard();
+            
+            }
+
+            card.GetComponent<PlayerCard>().Draw(pDeck.Draw());
+
+        }
     }
 
 }

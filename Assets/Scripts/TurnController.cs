@@ -23,6 +23,9 @@ public class TurnController : MonoBehaviour
 
     {
 
+        //catch if the player decked out first
+
+        
         //Castle Damage Logic
         int hp = CastleController.GetComponent<CastleController>().TakeDamage(total);
 
@@ -40,6 +43,10 @@ public class TurnController : MonoBehaviour
         }
 
         //Player Power Logic
+
+        //enemy attack sequence
+
+        //go again
 
 
     }

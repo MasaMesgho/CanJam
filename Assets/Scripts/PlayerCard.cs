@@ -74,7 +74,7 @@ public class PlayerCard : MonoBehaviour
         this.card[1] = null;
         this.GetComponent<SpriteRenderer>().sprite = Resources.Load<Sprite>("Card");
         
-        this.enabled = false;
+        
     }
 
     /// <summary>
