@@ -3,19 +3,21 @@ using UnityEngine;
 
 public class castleDeck : MonoBehaviour
 {
+    List<string[]> deckList = new List<string[]>();
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         string[] Faces = new string[] { "Jack", "Queen", "King" };
         string[] suits = new string[] { "Clubs", "Hearts", "Spades", "Diamonds" };
-        List<string[]> deckList = new List<string[]>();
 
 
         foreach (string face in Faces)
         {
             CreateStack(deckList, face, suits);
         }
-        
+        Debug.Log($"castle contains {deckList.Count} cards");
+        GetTopCard();
     }
 
     // Update is called once per frame
@@ -24,7 +26,7 @@ public class castleDeck : MonoBehaviour
         
     }
 
-    private List<string[]> CreateStack(List<string[]> deckList, string Face, string[] Suits)
+    private List<string[]> CreateStack(List<string[]> DeckList, string Face, string[] Suits)
 
 
     {
@@ -39,13 +41,19 @@ public class castleDeck : MonoBehaviour
         while (tempDeckList.Count > 0)
         {
             int i = Random.Range(0, tempDeckList.Count);
-            deckList.Add(tempDeckList[i]);
+            DeckList.Add(tempDeckList[i]);
             Debug.Log($"Stacked {tempDeckList[i][0].ToString()} of {tempDeckList[i][1].ToString()} ");
             tempDeckList.RemoveAt(i);
 
         }
-        return deckList;
+        return DeckList;
     }
 
+    public string[] GetTopCard()
 
+    {
+        
+        Debug.Log($"Top card of the castle is {this.deckList[0][0].ToString()} of {this.deckList[0][1]}");
+        return this.deckList[0];
+    }
 }
