@@ -16,6 +16,7 @@ public class TurnController : MonoBehaviour
 
     private PlayerController Player;
 
+    public bool Jester = true;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -57,7 +58,12 @@ public class TurnController : MonoBehaviour
 
         //Player Power Logic
 
-        string[] CastleSuit = Castle.Deck.GetDrawnCard();
+        string[] CastleSuit;
+
+
+             CastleSuit = Castle.Deck.GetDrawnCard();
+
+
         {
             if (suit != CastleSuit[1])
             {
