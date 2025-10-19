@@ -30,7 +30,7 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _MainColorReplace: {r: 0.22352938, g: 0.6239826, b: 0.85882354, a: 0}
+    - _MainColorReplace: {r: 0.25447077, g: 0.85882354, b: 0.22352938, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &7907942405149228929
